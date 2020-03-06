@@ -9,4 +9,4 @@ The extension comes with four boxes-- Cardboard, Fabric, Toy, and Magic. It has 
 There is an app version, however I tried running it and it refused to work. You *must* use the extension, the app won't work, unfortunately.
 
 ## How to play
-Download ZIP and extract. Open index.html and play!
+Head [here](https://github.com/jbmagination/cuttherope). Download ZIP and extract. Open index.html and play!
